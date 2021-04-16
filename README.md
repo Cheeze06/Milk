@@ -9,5 +9,5 @@
 
 # Link 🙂
 [Invited Milk](https://discord.com/api/oauth2/authorize?client_id=763575029144748053&permissions=0&scope=bot) 밀크를 개인 서버에 초대해 보세요!\
-[support Server] 제작중입니다. 최대한 빨리 만들겠습니다.\
-[Support Site]   제작중입니다. 최대한 빨리 만들겠습니다.
+[support Server]제작중입니다. 최대한 빨리 만들겠습니다.\
+[Support Site]제작중입니다. 최대한 빨리 만들겠습니다.
