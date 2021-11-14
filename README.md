@@ -8,6 +8,4 @@
 디스코드 Cheeze#8968 로 DM 보내주세요.
 
 # Link 🙂
-[Invited Milk](https://discord.com/api/oauth2/authorize?client_id=763575029144748053&permissions=0&scope=bot) 'Milk'를 개인 서버에 초대해 보세요!\
-[support Server]제작중입니다. 최대한 빨리 만들겠습니다.\
-[Support Site]제작중입니다. 최대한 빨리 만들겠습니다.
+[Invited Milk](https://discord.com/api/oauth2/authorize?client_id=763575029144748053&permissions=0&scope=bot) 'Milk'를 개인 서버에 초대해 보세요!
